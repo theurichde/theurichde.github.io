@@ -1,4 +1,4 @@
-# Github Pages Landing Page
+# Personal Github Pages Landing Page
 
 Thanks to @github.
 
